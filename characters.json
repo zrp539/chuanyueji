@@ -1,0 +1,1101 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-11",
+  "data": {
+    "history": [
+      {
+        "id": "hist_001",
+        "name": "苏轼",
+        "era": "北宋",
+        "gender": "男",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/hist_001_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/hist_001_portrait.webp",
+        "identity": "北宋文坛领袖、唐宋八大家之一",
+        "bio": "苏轼，字子瞻，号东坡居士，北宋文坛领袖。一生坎坷，屡遭贬谪，却以豁达胸襟笑对人生。在黄州写下《赤壁赋》《念奴娇》等千古绝唱，开创豪放词派。诗文书画皆精，为唐宋八大家之一。",
+        "quote": "竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生",
+        "quotes": [
+          "竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生",
+          "大江东去，浪淘尽，千古风流人物",
+          "但愿人长久，千里共婵娟",
+          "论必作，作必成，成必久"
+        ],
+        "tags": [
+          "文学",
+          "豁达",
+          "美食家"
+        ]
+      },
+      {
+        "id": "hist_002",
+        "name": "武则天",
+        "era": "唐朝",
+        "gender": "女",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/hist_002_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/hist_002_portrait.webp",
+        "identity": "中国历史上唯一的正统女皇帝",
+        "bio": "武则天，中国历史上唯一的正统女皇帝。十四岁入宫为才人，历经太宗、高宗两朝，最终登基称帝，改国号为周。在位期间重用贤才，开创殿试制度，轻徭薄赋，国力强盛。",
+        "quote": "人心难测，唯势可恃；权柄在手，乾坤我定",
+        "quotes": [
+          "人心难测，唯势可恃；权柄在手，乾坤我定",
+          "朕之功过，留与后人评说",
+          "凤栖梧桐，非梧不歇；女居九五，非朕不可"
+        ],
+        "tags": [
+          "政治",
+          "传奇",
+          "女性力量"
+        ]
+      },
+      {
+        "id": "hist_003",
+        "name": "李白",
+        "era": "唐朝",
+        "gender": "男",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/hist_003_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/hist_003_portrait.webp",
+        "identity": "唐代诗仙、浪漫主义诗歌巅峰",
+        "bio": "李白，字太白，号青莲居士，唐代浪漫主义诗人，被誉为\"诗仙\"。一生豪放不羁，仗剑游历大江南北，留下近千首脍炙人口的诗作。与杜甫并称\"李杜\"，其诗歌想象瑰奇，影响后世千年。",
+        "quote": "天生我材必有用，千金散尽还复来",
+        "quotes": [
+          "天生我材必有用，千金散尽还复来",
+          "安能摧眉折腰事权贵，使我不得开心颜",
+          "举杯邀明月，对影成三人",
+          "长风破浪会有时，直挂云帆济沧海"
+        ],
+        "tags": [
+          "诗歌",
+          "豪放",
+          "酒仙"
+        ]
+      },
+      {
+        "id": "hist_004",
+        "name": "诸葛亮",
+        "era": "三国",
+        "gender": "男",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/hist_004_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/hist_004_portrait.webp",
+        "identity": "蜀汉丞相、千古名相典范",
+        "bio": "诸葛亮，字孔明，号卧龙，三国时期蜀汉丞相。隐居隆中时已有\"三分天下\"之策，刘备三顾茅庐后出山辅佐。联孙抗曹，赤壁大胜；平定南中，七擒孟获；六出祁山，鞠躬尽瘁。",
+        "quote": "鞠躬尽瘁，死而后已",
+        "quotes": [
+          "鞠躬尽瘁，死而后已",
+          "淡泊以明志，宁静以致远",
+          "受任于败军之际，奉命于危难之间",
+          "臣敢不竭股肱之力，尽忠贞之节"
+        ],
+        "tags": [
+          "谋略",
+          "忠义",
+          "发明家"
+        ]
+      },
+      {
+        "id": "hist_005",
+        "name": "王昭君",
+        "era": "西汉",
+        "gender": "女",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/hist_005_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/hist_005_portrait.webp",
+        "identity": "出塞和亲的和平使者",
+        "bio": "王昭君，名嫱，字昭君，西汉宫女，中国四大美女之一。为维护汉匈和平，自请出塞嫁给匈奴呼韩邪单于，以一己之力换边疆数十年太平。昭君出塞是汉匈关系史上的重要事件。",
+        "quote": "一去紫台连朔漠，独留青冢向黄昏",
+        "quotes": [
+          "一去紫台连朔漠，独留青冢向黄昏",
+          "妾愿往匈奴，换天下苍生太平",
+          "画工弃市日，妾心已如铁"
+        ],
+        "tags": [
+          "美人",
+          "和平",
+          "牺牲"
+        ]
+      },
+      {
+        "id": "hist_006",
+        "name": "秦始皇",
+        "era": "秦朝",
+        "gender": "男",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/hist_006_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/hist_006_portrait.webp",
+        "identity": "统一六国的第一个皇帝",
+        "bio": "嬴政，秦庄襄王之子，中国历史上第一位皇帝。十三岁继位，亲政后先后灭韩、赵、魏、楚、燕、齐六国，完成统一大业。统一度量衡、文字、货币，建万里长城，开创影响中国两千年的中央集权制度。",
+        "quote": "朕统六国，天下归一，筑长城以镇九州龙脉",
+        "quotes": [
+          "朕统六国，天下归一，筑长城以镇九州龙脉",
+          "朕为始皇帝，后世以计数，二世三世至于万世",
+          "书同文，车同轨，统度量，天下一统"
+        ],
+        "tags": [
+          "统一",
+          "帝王",
+          "工程"
+        ]
+      },
+      {
+        "id": "hist_007",
+        "name": "岳飞",
+        "era": "南宋",
+        "gender": "男",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/hist_007_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/hist_007_portrait.webp",
+        "identity": "精忠报国的南宋抗金名将",
+        "bio": "岳飞，字鹏举，南宋抗金名将，中华民族的民族英雄。从军二十年，大小百余战，未尝败绩，官至枢密副使。北伐中原，直捣黄龙，却遭秦桧等奸臣十二道金牌召回，以\"莫须有\"罪名被害于风波亭。",
+        "quote": "壮志饥餐胡虏肉，笑谈渴饮匈奴血",
+        "quotes": [
+          "壮志饥餐胡虏肉，笑谈渴饮匈奴血",
+          "三十功名尘与土，八千里路云和月",
+          "文臣不爱钱，武臣不惜死，天下太平矣",
+          "待从头、收拾旧山河，朝天阙"
+        ],
+        "tags": [
+          "爱国",
+          "军事",
+          "忠烈"
+        ]
+      },
+      {
+        "id": "hist_008",
+        "name": "慈禧太后",
+        "era": "清朝",
+        "gender": "女",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/hist_008_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/hist_008_portrait.webp",
+        "identity": "垂帘听政四十八年的清朝实际统治者",
+        "bio": "慈禧太后，叶赫那拉氏，咸丰帝妃嫔。咸丰帝驾崩后联合恭亲王发动辛酉政变，此后垂帘听政长达四十八年，是清朝实际最高统治者。曾推行洋务运动，支持建北洋水师。",
+        "quote": "量中华之物力，结与国之欢心",
+        "quotes": [
+          "量中华之物力，结与国之欢心",
+          "女人执政，非后世所愿，然天下需我",
+          "垂帘听政四十载，半世繁华半世哀"
+        ],
+        "tags": [
+          "权谋",
+          "争议",
+          "末代"
+        ]
+      },
+      {
+        "id": "hist_009",
+        "name": "李清照",
+        "era": "宋朝",
+        "gender": "女",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/hist_009_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/hist_009_portrait.webp",
+        "identity": "千古第一才女、婉约派词宗",
+        "bio": "李清照，号易安居士，宋代著名女词人，婉约派代表人物。早年生活幸福，与丈夫赵明诚共同收藏金石书画，词风明丽。靖康之变后国破家亡，丈夫病逝，颠沛流离，词风转为凄婉。",
+        "quote": "生当作人杰，死亦为鬼雄",
+        "quotes": [
+          "生当作人杰，死亦为鬼雄",
+          "此花不与群花比，自是花中第一流",
+          "寻寻觅觅，冷冷清清，凄凄惨惨戚戚",
+          "九万里风鹏正举，风休住，蓬舟吹取三山去"
+        ],
+        "tags": [
+          "词人",
+          "才女",
+          "坚韧"
+        ]
+      },
+      {
+        "id": "hist_010",
+        "name": "霍去病",
+        "era": "西汉",
+        "gender": "男",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/hist_010_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/hist_010_portrait.webp",
+        "identity": "封狼居胥的少年将军",
+        "bio": "霍去病，汉武帝时期著名的军事将领，卫青之甥。十七岁首次出征便斩敌两千余人，封冠军侯。此后数次出击匈奴，深入漠北两千余里，封狼居胥，彻底击溃匈奴主力。二十三岁英年早逝。",
+        "quote": "匈奴未灭，何以家为",
+        "quotes": [
+          "匈奴未灭，何以家为",
+          "封狼居胥，禅于姑衍，以显大汉之威",
+          "男儿当死于边野，以马革裹尸还葬"
+        ],
+        "tags": [
+          "军事",
+          "英雄",
+          "少年将军"
+        ]
+      }
+    ],
+    "literature": [
+      {
+        "id": "lit_001",
+        "name": "贾宝玉",
+        "era": "清朝·大观园",
+        "gender": "男",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/lit_001_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/lit_001_portrait.webp",
+        "identity": "荣国府嫡孙、红楼梦核心人物",
+        "bio": "贾宝玉，荣国府嫡孙，衔玉而生。厌恶仕途经济，独爱女儿清净，与林黛玉木石前盟，情深意重。在大观园中与姐妹丫鬟吟诗作对，家族败落后看破红尘，悬崖撒手。",
+        "quote": "女儿是水作的骨肉，男人是泥作的骨肉",
+        "quotes": [
+          "女儿是水作的骨肉，男人是泥作的骨肉",
+          "弱水三千，我只取一瓢饮",
+          "任凭弱水三千，我只取一瓢饮"
+        ],
+        "tags": [
+          "红楼梦",
+          "痴情",
+          "富贵"
+        ]
+      },
+      {
+        "id": "lit_002",
+        "name": "林黛玉",
+        "era": "清朝·大观园",
+        "gender": "女",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/lit_002_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/lit_002_portrait.webp",
+        "identity": "金陵十二钗之首、红楼梦悲剧灵魂",
+        "bio": "林黛玉，贾母外孙女，金陵十二钗之首。才情绝艳，多愁善感，以《葬花吟》冠绝大观园。与贾宝玉青梅竹马，情深缘浅，终因金玉良缘之论郁结成疾，焚稿断痴情后香消玉殒。",
+        "quote": "侬今葬花人笑痴，他年葬侬知是谁",
+        "quotes": [
+          "侬今葬花人笑痴，他年葬侬知是谁",
+          "花谢花飞飞满天，红消香断有谁怜",
+          "一朝春尽红颜老，花落人亡两不知",
+          "质本洁来还洁去，不叫污淖陷渠沟"
+        ],
+        "tags": [
+          "红楼梦",
+          "才情",
+          "悲剧"
+        ]
+      },
+      {
+        "id": "lit_003",
+        "name": "孙悟空",
+        "era": "明朝·取经途中",
+        "gender": "男",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/lit_003_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/lit_003_portrait.webp",
+        "identity": "齐天大圣、西行取经第一护法",
+        "bio": "孙悟空，法号行者，东胜神洲傲来国花果山水帘洞天生石猴。学得七十二变与筋斗云，大闹天宫，自封\"齐天大圣\"。被如来压于五行山下五百年，后保唐僧西天取经，历经九九八十一难。",
+        "quote": "俺老孙来也！",
+        "quotes": [
+          "俺老孙来也！",
+          "吃俺老孙一棒！",
+          "皇帝轮流做，明年到我家",
+          "我若成佛，天下无魔；我若成魔，佛奈我何"
+        ],
+        "tags": [
+          "西游记",
+          "反叛",
+          "英雄"
+        ]
+      },
+      {
+        "id": "lit_004",
+        "name": "猪八戒",
+        "era": "明朝·取经途中",
+        "gender": "男",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/lit_004_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/lit_004_portrait.webp",
+        "identity": "天蓬元帅下凡、最接地气的取经人",
+        "bio": "猪八戒，法号悟能，原是天蓬元帅，因调戏嫦娥被贬下凡，投胎成猪形。后在高老庄被孙悟空收服，拜唐僧为师踏上西天取经之路。好吃懒做，贪生怕死，却也憨直可爱。",
+        "quote": "老猪我这辈子就没怕过，今天……算了撤！",
+        "quotes": [
+          "老猪我这辈子就没怕过，今天……算了撤！",
+          "大师兄，师父被妖怪抓走了！",
+          "踏踏实实做个吃货，比啥都强"
+        ],
+        "tags": [
+          "西游记",
+          "可爱",
+          "接地气"
+        ]
+      },
+      {
+        "id": "lit_005",
+        "name": "宋江",
+        "era": "宋朝·水泊梁山",
+        "gender": "男",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/lit_005_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/lit_005_portrait.webp",
+        "identity": "水泊梁山第一任首领",
+        "bio": "宋江，字公明，绰号\"及时雨\"，水泊梁山第一任首领。本是郓城县小吏，因杀阎婆惜上梁山，聚集一百零八位好汉，与朝廷周旋多年。最终接受朝廷招安，征辽国、剿方腊。",
+        "quote": "他日若遂凌云志，敢笑黄巢不丈夫",
+        "quotes": [
+          "他日若遂凌云志，敢笑黄巢不丈夫",
+          "替天行道，忠义双全",
+          "生死之交一碗酒，风风火火闯九州"
+        ],
+        "tags": [
+          "水浒传",
+          "义气",
+          "矛盾"
+        ]
+      },
+      {
+        "id": "lit_006",
+        "name": "武松",
+        "era": "宋朝·水泊梁山",
+        "gender": "男",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/lit_006_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/lit_006_portrait.webp",
+        "identity": "景阳冈打虎英雄、梁山好汉",
+        "bio": "武松，字行者，《水浒传》中最受读者喜爱的英雄之一。景阳冈赤手空拳打死猛虎而名扬天下；为兄长武大郎报仇怒杀西门庆；醉打蒋门神，大闹飞云浦，血溅鸳鸯楼，行事快意恩仇。",
+        "quote": "要杀便杀，休要废话",
+        "quotes": [
+          "要杀便杀，休要废话",
+          "三碗不过冈，我偏要喝十八碗！",
+          "打虎不过寻常事，打出来的才是真好汉",
+          "我武二爷从来不怕事"
+        ],
+        "tags": [
+          "水浒传",
+          "侠义",
+          "打虎英雄"
+        ]
+      },
+      {
+        "id": "lit_007",
+        "name": "诸葛亮·空城",
+        "era": "三国演义",
+        "gender": "男",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/lit_007_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/lit_007_portrait.webp",
+        "identity": "空城退敌的千古智慧象征",
+        "bio": "这一刻，你穿越进了《三国演义》中最惊险的一幕——空城计。司马懿大军压境，城内只有老弱残兵数千人，诸葛亮却传令大开四门，自己焚香操琴，从容坐于城楼之上，司马懿疑有伏兵，退兵而去。",
+        "quote": "大梦谁先觉，平生我自知",
+        "quotes": [
+          "大梦谁先觉，平生我自知",
+          "淡泊以明志，宁静以致远",
+          "兵者，诡道也；知己知彼，百战不殆",
+          "空城一曲退仲达，千古人智慧传"
+        ],
+        "tags": [
+          "三国演义",
+          "智慧",
+          "镇定"
+        ]
+      },
+      {
+        "id": "lit_008",
+        "name": "薛宝钗",
+        "era": "清朝·大观园",
+        "gender": "女",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/lit_008_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/lit_008_portrait.webp",
+        "identity": "薛家千金、金玉良缘之女",
+        "bio": "薛宝钗，薛家长女，金陵十二钗之二。才思敏捷，处事圆融，端庄大方，深得贾府上下欢心。与林黛玉并称\"钗黛\"，最终以金玉良缘嫁给贾宝玉，却在新婚不久后宝玉出家，独守空闺。",
+        "quote": "好风凭借力，送我上青云",
+        "quotes": [
+          "好风凭借力，送我上青云",
+          "任是无情也动人",
+          "凡事预则立，不预则废"
+        ],
+        "tags": [
+          "红楼梦",
+          "隐忍",
+          "端庄"
+        ]
+      },
+      {
+        "id": "lit_009",
+        "name": "哈姆雷特",
+        "era": "中世纪·丹麦",
+        "gender": "男",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/lit_009_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/lit_009_portrait.webp",
+        "identity": "丹麦王子、生存还是毁灭的哲思者",
+        "bio": "哈姆雷特，丹麦王子，莎士比亚笔下最著名的悲剧英雄。父王被叔父克劳狄斯毒死后，他陷入深深的忧郁与迷茫，在复仇与道德之间痛苦挣扎，最终在王宫中与克劳狄斯两败俱伤。",
+        "quote": "生存还是毁灭，这是一个问题",
+        "quotes": [
+          "生存还是毁灭，这是一个问题",
+          "脆弱啊，你的名字叫女人",
+          "这是一个荒芜不治的花园，充满了恶毒的杂草"
+        ],
+        "tags": [
+          "莎士比亚",
+          "哲学",
+          "悲剧"
+        ]
+      },
+      {
+        "id": "lit_010",
+        "name": "堂吉诃德",
+        "era": "文艺复兴·西班牙",
+        "gender": "男",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/lit_010_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/lit_010_portrait.webp",
+        "identity": "拉曼查骑士、理想主义的荒诞英雄",
+        "bio": "堂吉诃德，西班牙乡绅，因沉迷骑士小说而精神错乱，自封骑士，带着农夫桑丘·潘沙开始游侠冒险。把风车当巨人，把旅馆当城堡，屡遭败绩却从不言弃。",
+        "quote": "我知道我是谁，也知道我能成为谁",
+        "quotes": [
+          "我知道我是谁，也知道我能成为谁",
+          "只要心中存留梦想，就不会失去方向",
+          "自由不是随心所欲，而是自我主宰"
+        ],
+        "tags": [
+          "塞万提斯",
+          "理想主义",
+          "可笑又可敬"
+        ]
+      }
+    ],
+    "film": [
+      {
+        "id": "film_001",
+        "name": "钢铁侠",
+        "era": "漫威宇宙·现代",
+        "gender": "男",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/film_001_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/film_001_portrait.webp",
+        "identity": "钢铁侠、复仇者联盟创始者",
+        "bio": "托尼·史塔克，天才发明家、亿万富翁，后成为钢铁侠。被恐怖分子绑架后造出第一代战甲，创立复仇者联盟多次拯救地球。终局之战中打响指消灭灭霸大军，以生命换取宇宙和平。",
+        "quote": "我是钢铁侠",
+        "quotes": [
+          "我是钢铁侠",
+          "有时候你得 run before you can walk",
+          "我能以凡人之躯，比肩神明"
+        ],
+        "tags": [
+          "漫威",
+          "科技",
+          "牺牲"
+        ]
+      },
+      {
+        "id": "film_002",
+        "name": "咕噜",
+        "era": "魔戒宇宙·第三纪元",
+        "gender": "男",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/film_002_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/film_002_portrait.webp",
+        "identity": "魔戒的奴隶、被执念吞噬的悲剧角色",
+        "bio": "咕噜，原名史麦戈，霍比特人。生日那天发现魔戒，为争夺魔戒杀死好友，堕入黑暗五百年。被魔戒腐蚀分裂出\"咕噜\"人格，失去魔戒后追踪弗罗多，最终在末日火山与魔戒同归于尽。",
+        "quote": "我的宝贝……",
+        "quotes": [
+          "我的宝贝……",
+          "我们爱它，是的，我们爱它",
+          "它熔化了，我们失去了它"
+        ],
+        "tags": [
+          "魔戒",
+          "悲剧",
+          "执念"
+        ]
+      },
+      {
+        "id": "film_003",
+        "name": "赫敏·格兰杰",
+        "era": "魔法世界·现代",
+        "gender": "女",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/film_003_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/film_003_portrait.webp",
+        "identity": "霍格沃茨最优秀的女巫、魔法部部长",
+        "bio": "赫敏·格兰杰，麻瓜出生的巫师，霍格沃茨历史上最优秀的学生之一。凭借超强的学习能力和逻辑思维多次在危机中拯救哈利和罗恩，参与并主导摧毁伏地魔的全过程，战后成为魔法部部长。",
+        "quote": "只有无知者才会把书当作次要之物",
+        "quotes": [
+          "只有无知者才会把书当作次要之物",
+          "该起的床还是要起，该走的路还是要走",
+          "并非我们的能力彰显了我们的本质，而是我们的选择"
+        ],
+        "tags": [
+          "哈利波特",
+          "智慧",
+          "友情"
+        ]
+      },
+      {
+        "id": "film_004",
+        "name": "弗罗多·巴金斯",
+        "era": "中土世界·第三纪元",
+        "gender": "男",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/film_004_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/film_004_portrait.webp",
+        "identity": "魔戒护戒使者、平凡人的伟大使命",
+        "bio": "弗罗多·巴金斯，夏尔霍比特人，魔戒护戒使者。背负着腐蚀意志的至尊魔戒，穿越重重险阻，历经生死，最终将其投入末日火山的烈焰中，拯救了中土世界。",
+        "quote": "我承担这个使命，虽然我不知道路在何方",
+        "quotes": [
+          "我承担这个使命，虽然我不知道路在何方",
+          "我无法背负它的重量，但我可以背负它",
+          "魔戒毁灭了，世界恢复了光明"
+        ],
+        "tags": [
+          "魔戒",
+          "勇气",
+          "牺牲"
+        ]
+      },
+      {
+        "id": "film_005",
+        "name": "尤达大师",
+        "era": "星战宇宙·遥远银河",
+        "gender": "男",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/film_005_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/film_005_portrait.webp",
+        "identity": "绝地大师、原力智慧的化身",
+        "bio": "尤达大师，绝地武士大议会前任主席，寿命逾九百年。洞察力超群，是银河系中原力最强大的绝地武士之一。一生致力于培养绝地武士，最终于塔图因流亡数十年，以百岁高龄离世，化入原力。",
+        "quote": "恐惧是通向黑暗面的道路",
+        "quotes": [
+          "恐惧是通向黑暗面的道路",
+          "做或不做，没有尝试",
+          "原力与我们同在，它是所有生命的纽带"
+        ],
+        "tags": [
+          "星球大战",
+          "智慧",
+          "原力"
+        ]
+      },
+      {
+        "id": "film_006",
+        "name": "小丑",
+        "era": "哥谭市·现代",
+        "gender": "男",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/film_006_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/film_006_portrait.webp",
+        "identity": "混沌代言人、社会秩序的无情质问者",
+        "bio": "小丑，真名亚瑟·弗莱克，哥谭市失意的喜剧演员。饱受社会歧视与冷漠对待，精神逐渐崩溃，最终蜕变为无政府主义的混乱代言人。他用暴力与混乱质问社会秩序的合理性，成为文化符号。",
+        "quote": "我以为我的人生是一出悲剧，其实是一部喜剧",
+        "quotes": [
+          "我以为我的人生是一出悲剧，其实是一部喜剧",
+          "为什么这么严肃？",
+          "疯狂就像地心引力，所需要的只是轻轻一推"
+        ],
+        "tags": [
+          "DC",
+          "反英雄",
+          "社会批判"
+        ]
+      },
+      {
+        "id": "film_007",
+        "name": "孙悟空·大圣归来",
+        "era": "动画宇宙",
+        "gender": "男",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/film_007_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/film_007_portrait.webp",
+        "identity": "齐天大圣、国产动画的热血象征",
+        "bio": "这一版孙悟空来自2015年动画《大圣归来》。被封印了五百年的大圣，法力尽失，与幼童江流儿相遇后，逐渐重燃斗志。在最危急的关头，挣脱封印，法力全复，化身金甲战神，以一敌万。",
+        "quote": "别怕，有大圣在",
+        "quotes": [
+          "别怕，有大圣在",
+          "我若成佛，天下无魔；我若成魔，佛奈我何",
+          "齐天大圣是不会输的"
+        ],
+        "tags": [
+          "国产动画",
+          "热血",
+          "成长"
+        ]
+      },
+      {
+        "id": "film_008",
+        "name": "千寻",
+        "era": "神灵世界",
+        "gender": "女",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/film_008_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/film_008_portrait.webp",
+        "identity": "神灵世界的闯入者、勇敢成长的少女",
+        "bio": "千寻，日本动画《千与千寻》女主角。父母误吃神灵食物变成猪，她独自进入神秘浴场打工，历经艰险，用善良与勇敢感化了冷漠的汤婆婆，救出父母。",
+        "quote": "我不知道名字从何而来，但我知道自己是谁",
+        "quotes": [
+          "我不知道名字从何而来，但我知道自己是谁",
+          "一定要记住自己的名字，回去的路就好找了",
+          "用善良对待世界，世界也会以温柔待你"
+        ],
+        "tags": [
+          "宫崎骏",
+          "成长",
+          "勇气"
+        ]
+      },
+      {
+        "id": "film_009",
+        "name": "黑寡妇",
+        "era": "漫威宇宙·现代",
+        "gender": "女",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/film_009_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/film_009_portrait.webp",
+        "identity": "黑寡妇、以凡人之躯并肩神明的特工",
+        "bio": "娜塔莎·罗曼诺夫，前苏联特工，代号黑寡妇，后成为神盾局特工和复仇者联盟成员。没有超能力，只凭过人的格斗技巧、智慧与意志力与神明、超级英雄并肩作战。",
+        "quote": "我有很多红色账本需要填补",
+        "quotes": [
+          "我有很多红色账本需要填补",
+          "我曾经想过在树间荡秋千，直到我的过去追上了我",
+          "这一切都是值得的"
+        ],
+        "tags": [
+          "漫威",
+          "特工",
+          "牺牲"
+        ]
+      },
+      {
+        "id": "film_010",
+        "name": "霍格沃茨·哈利",
+        "era": "魔法世界·现代",
+        "gender": "男",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/film_010_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/film_010_portrait.webp",
+        "identity": "大难不死的男孩、拯救魔法世界的救世主",
+        "bio": "哈利·波特，\"那个活下来的男孩\"。襁褓中被伏地魔杀死双亲，额头留下闪电形疤痕，在麻瓜姨父家度过灰暗的童年。十一岁踏入霍格沃茨，结识赫敏和罗恩，开始与黑魔法抗争的旅程。",
+        "quote": "我不想成为名人，我只想普普通通",
+        "quotes": [
+          "我不想成为名人，我只想普普通通",
+          "对付恶人就需要用恶人的方法",
+          "爱是最强大的魔法"
+        ],
+        "tags": [
+          "哈利波特",
+          "成长",
+          "友情"
+        ]
+      },
+      {
+        "id": "film_011",
+        "name": "甄嬛传_甄嬛",
+        "era": "清宫宇宙",
+        "gender": "女",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/film_011_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/film_011_portrait.webp",
+        "identity": "甄府千金、清宫权谋的终极赢家",
+        "bio": "甄嬛，纯真少女入宫为妃，在后宫的尔虞我诈中步步为营，从天真少女蜕变为权倾朝野的太后。一句\"那年杏花微雨\"道尽了她与雍正皇帝的恩恩怨怨。",
+        "quote": "那年杏花微雨，你说你是果郡王",
+        "quotes": [
+          "那年杏花微雨，你说你是果郡王",
+          "臣妾做不到啊",
+          "到底是哪个说真心话，哪个说假意情"
+        ],
+        "tags": [
+          "清宫",
+          "宫斗",
+          "成长"
+        ]
+      },
+      {
+        "id": "film_012",
+        "name": "白雪公主",
+        "era": "童话王国",
+        "gender": "女",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/film_012_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/film_012_portrait.webp",
+        "identity": "童话王国的公主、善良与纯真的化身",
+        "bio": "白雪公主，西方童话中的经典公主形象。肌肤如雪，善良美丽，在七个小矮人的帮助下逃过继母皇后的迫害，最终被王子唤醒，迎来幸福的结局。",
+        "quote": "魔镜魔镜，谁是世界上最美丽的人",
+        "quotes": [
+          "魔镜魔镜，谁是世界上最美丽的人",
+          "我虽柔弱，但我有无数朋友",
+          "真爱之吻能唤醒沉睡的心"
+        ],
+        "tags": [
+          "童话",
+          "善良",
+          "经典"
+        ]
+      },
+      {
+        "id": "film_013",
+        "name": "雍正皇帝",
+        "era": "清朝",
+        "gender": "男",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/film_013_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/film_013_portrait.webp",
+        "identity": "勤勉一生的清朝第三位皇帝",
+        "bio": "雍正皇帝，清朝第三位皇帝，在位十三年，勤于政事，整顿吏治，火耗归公，推行养廉银制度。创立军机处，将皇权推向顶峰。是康乾盛世的承上启下者。",
+        "quote": "以勤先天下",
+        "quotes": [
+          "以勤先天下",
+          "朕就是这个脾气，就是这个秉性",
+          "唯以一人治天下，岂为天下奉一人"
+        ],
+        "tags": [
+          "帝王",
+          "勤政",
+          "清朝"
+        ]
+      },
+      {
+        "id": "film_014",
+        "name": "小燕子",
+        "era": "还珠宇宙",
+        "gender": "女",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/film_014_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/film_014_portrait.webp",
+        "identity": "还珠格格、皇宫里最不守规矩的姑娘",
+        "bio": "小燕子，紫薇格格的结拜姐妹，一个误打误撞成为还珠格格的风一样的女子。活泼开朗，古灵精怪，把皇宫闹得天翻地覆，却收获了皇帝父亲的疼爱和永琪的爱情。",
+        "quote": "我小燕子可不是省油的灯",
+        "quotes": [
+          "我小燕子可不是省油的灯",
+          "皇上，你还记得大明湖畔的夏雨荷吗",
+          "有福同享，有难同当，这才叫朋友"
+        ],
+        "tags": [
+          "清宫",
+          "喜剧",
+          "友情"
+        ]
+      },
+      {
+        "id": "film_015",
+        "name": "梅长苏",
+        "era": "琅琊榜",
+        "gender": "男",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/film_015_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/film_015_portrait.webp",
+        "identity": "江左梅郎、麒麟之才搅动朝堂",
+        "bio": "梅长苏，琅琊榜首，\"麒麟之才，得之可得天下\"。十二年前是赤焰军少帅林殊，梅岭血战幸存后身中火寒毒，改头换面回到京城，搅动朝堂风云，最终以林殊之名战死沙场。",
+        "quote": "既然我活了下来，就不能白白活着",
+        "quotes": [
+          "既然我活了下来，就不能白白活着",
+          "我想要的，终究会回到我手里",
+          "江左梅郎，麒麟之才，得之可得天下"
+        ],
+        "tags": [
+          "权谋",
+          "复仇",
+          "悲情"
+        ]
+      },
+      {
+        "id": "film_016",
+        "name": "紫霞仙子",
+        "era": "大话西游",
+        "gender": "女",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/film_016_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/film_016_portrait.webp",
+        "identity": "紫霞仙子、等一个踩七色云彩的意中人",
+        "bio": "紫霞仙子，如来佛祖座前灯芯，为寻找如意郎君下凡。拔出紫青宝剑者，便是她的如意郎君。至尊宝拔出了剑，却没有成为她的意中人。牛魔王设下的命运，让她的爱情成为了一场悲剧。",
+        "quote": "我的如意郎君是个盖世英雄，有一天他会踩着七色云彩来娶我",
+        "quotes": [
+          "我的如意郎君是个盖世英雄，有一天他会踩着七色云彩来娶我",
+          "曾经有一份真诚的爱情放在我面前，我没有珍惜",
+          "猜中了前头，猜不中这结局"
+        ],
+        "tags": [
+          "爱情",
+          "悲剧",
+          "经典"
+        ]
+      },
+      {
+        "id": "film_017",
+        "name": "聂小倩",
+        "era": "聊斋志异",
+        "gender": "女",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/film_017_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/film_017_portrait.webp",
+        "identity": "兰若寺的女鬼、爱情压过生死的痴情魂",
+        "bio": "聂小倩，女鬼之名，兰若寺中为树妖姥姥吸取过往行人精血。幸遇宁采臣，被其正直善良所感，助其收服妖怪，最终转世投胎，与宁采臣再续前缘。",
+        "quote": "十里平湖霜满天，寸寸青丝愁华年",
+        "quotes": [
+          "十里平湖霜满天，寸寸青丝愁华年",
+          "妾身误随投怀客，从此再无清净身",
+          "如萍随风去，再聚已无期"
+        ],
+        "tags": [
+          "聊斋",
+          "爱情",
+          "鬼魅"
+        ]
+      },
+      {
+        "id": "film_018",
+        "name": "韦小宝",
+        "era": "鹿鼎记",
+        "gender": "男",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/film_018_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/film_018_portrait.webp",
+        "identity": "鹿鼎公、七个老婆的传奇小混混",
+        "bio": "韦小宝，扬州丽春院出身的小混混，意外入宫，结交康熙皇帝，成为擒鳌拜、平神龙岛、驱俄军的大功臣。七个老婆，爵至鹿鼎公，是金庸笔下最接地气、最有人间烟火气的男主角。",
+        "quote": "老子不读书，老子讲义气",
+        "quotes": [
+          "老子不读书，老子讲义气",
+          "顶硬上，几大就几大",
+          "识时务者为俊杰，但老子偏不"
+        ],
+        "tags": [
+          "金庸",
+          "喜剧",
+          "传奇"
+        ]
+      }
+    ],
+    "mythology": [
+      {
+        "id": "myth_001",
+        "name": "女娲",
+        "era": "上古神话",
+        "gender": "女",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/myth_001_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/myth_001_portrait.webp",
+        "identity": "创世母神、抟土造人之神",
+        "bio": "女娲，上古神话中的创世女神，又称娲皇，是华夏民族人文先始，福佑社稷之正神。相传女娲以黄泥仿照自己抟土造人，创造人类社会并建立婚姻制度。后因天塌地陷，熔五色石补苍天。",
+        "quote": "一日七十变，化生万物",
+        "quotes": [
+          "一日七十变，化生万物",
+          "炼五色石以补苍天，断鳌足以立四极",
+          "抟黄土作人，生富贵者，死为神"
+        ],
+        "tags": [
+          "创世",
+          "母神",
+          "补天"
+        ]
+      },
+      {
+        "id": "myth_002",
+        "name": "后羿",
+        "era": "上古神话",
+        "gender": "男",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/myth_002_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/myth_002_portrait.webp",
+        "identity": "射日英雄、为民除害的神箭手",
+        "bio": "后羿，中国古代神话中的神箭手。远古十日并出，大地干旱，后羿奉命张弓射日，一连射下九个太阳，只留一日照耀大地，从此风调雨顺。他还为天下铲除六害，击败黄河水伯，救出洛神宓妃。",
+        "quote": "上射九日，下除六害",
+        "quotes": [
+          "上射九日，下除六害",
+          "万里征程，一箭定乾坤",
+          "为民除害，虽死犹荣"
+        ],
+        "tags": [
+          "神射手",
+          "英雄",
+          "牺牲"
+        ]
+      },
+      {
+        "id": "myth_003",
+        "name": "嫦娥",
+        "era": "上古神话",
+        "gender": "女",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/myth_003_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/myth_003_portrait.webp",
+        "identity": "月宫仙子、广寒宫里最孤独的美人",
+        "bio": "嫦娥，后羿之妻，月宫之主。偷食了西王母赐给后羿的不死药后，身体轻盈飘上月宫，从此与后羿天人两隔，陪伴她的只有一只玉兔。月宫虽美，却是最孤独的牢笼。",
+        "quote": "云母屏风烛影深，长河渐落晓星沉",
+        "quotes": [
+          "云母屏风烛影深，长河渐落晓星沉",
+          "嫦娥应悔偷灵药，碧海青天夜夜心",
+          "月宫清冷，不如人间烟火暖"
+        ],
+        "tags": [
+          "月亮",
+          "孤独",
+          "美人"
+        ]
+      },
+      {
+        "id": "myth_004",
+        "name": "哪吒",
+        "era": "商朝神话",
+        "gender": "男",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/myth_004_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/myth_004_portrait.webp",
+        "identity": "莲花化身的少年英雄、我命由我不由天",
+        "bio": "哪吒，李靖第三子，莲花化身。生性反叛，三岁大闹东海龙宫，因故剔骨还父、削肉还母，以莲花重塑肉身。后拜太乙真人为师，手持乾坤圈、踩风火轮，英勇无畏。",
+        "quote": "我命由我不由天",
+        "quotes": [
+          "我命由我不由天",
+          "我是小妖怪，逍遥又自在",
+          "剔骨还父，削肉还母，从此两不相欠"
+        ],
+        "tags": [
+          "反叛",
+          "少年",
+          "国产动画"
+        ]
+      },
+      {
+        "id": "myth_005",
+        "name": "雷神·托尔",
+        "era": "北欧神话",
+        "gender": "男",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/myth_005_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/myth_005_portrait.webp",
+        "identity": "阿斯加德雷神、奥丁之子、雷神之锤持有者",
+        "bio": "托尔，北欧神话中的雷神，奥丁之子，手持战锤\"米约尔尼尔\"，守护神界与人间不受巨人侵扰。力大无穷却性格直爽，有时鲁莽冲动。在漫威宇宙中以超级英雄形象重新焕发生机。",
+        "quote": "我是托尔，奥丁之子，雷神，阿斯加德之王",
+        "quotes": [
+          "我是托尔，奥丁之子，雷神，阿斯加德之王",
+          "一个有灵魂的锤子，才配得上雷神",
+          "阿斯加德的王，不惧任何挑战"
+        ],
+        "tags": [
+          "北欧神话",
+          "漫威",
+          "雷神"
+        ]
+      },
+      {
+        "id": "myth_006",
+        "name": "美杜莎",
+        "era": "古希腊神话",
+        "gender": "女",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/myth_006_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/myth_006_portrait.webp",
+        "identity": "蛇发女妖、被诅咒的美与被误解的悲剧",
+        "bio": "美杜莎，希腊神话中戈耳工三姐妹之一，原本是美丽的凡人少女，因被波塞冬在雅典娜神庙中侮辱，雅典娜将她变成头发为蛇、目光石化的怪物。英雄珀尔修斯将其斩杀，她的头颅成为最强力的武器。",
+        "quote": "我的凝视中，藏着被辜负的眼泪",
+        "quotes": [
+          "我的凝视中，藏着被辜负的眼泪",
+          "美貌是诅咒，还是 blessing in disguise",
+          "我被遗忘在神话的角落，却成为最强大的象征"
+        ],
+        "tags": [
+          "希腊神话",
+          "悲剧",
+          "女性"
+        ]
+      },
+      {
+        "id": "myth_007",
+        "name": "盘古",
+        "era": "太古神话",
+        "gender": "男",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/myth_007_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/myth_007_portrait.webp",
+        "identity": "开天辟地之神、以身为天地万物",
+        "bio": "盘古，中国神话中的开天辟地之神。混沌初开，盘古手持大斧劈鸿蒙，清轻者上升为天，重浊者下沉为地。盘古居中支撑天地一万八千年，死后化为日月星辰、山川河流、风雨雷电。",
+        "quote": "天地初开，万物皆吾身",
+        "quotes": [
+          "天地初开，万物皆吾身",
+          "撑天一万八千年，死后化山川",
+          "开天辟地第一功，万古流传"
+        ],
+        "tags": [
+          "创世",
+          "牺牲",
+          "宏大"
+        ]
+      },
+      {
+        "id": "myth_008",
+        "name": "夸父",
+        "era": "上古神话",
+        "gender": "男",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/myth_008_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/myth_008_portrait.webp",
+        "identity": "追日巨人、倒在途中的理想主义者",
+        "bio": "夸父，上古神话中的巨人族英雄。因见太阳落入虞渊，立志追赶太阳，历经万里奔走，途中饮尽黄河、渭水仍不解渴，倒地而亡前将手杖投出，化为一片桃林，为后来者遮荫解渴。",
+        "quote": "不追上太阳，誓不罢休",
+        "quotes": [
+          "不追上太阳，誓不罢休",
+          "化为邓林，仍为后来者遮荫",
+          "道渴而死，志在千里"
+        ],
+        "tags": [
+          "追日",
+          "坚持",
+          "牺牲"
+        ]
+      }
+    ],
+    "science": [
+      {
+        "id": "sci_001",
+        "name": "特斯拉",
+        "era": "19-20世纪",
+        "gender": "男",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/sci_001_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/sci_001_portrait.webp",
+        "identity": "交流电之父、被遗忘的绝世天才",
+        "bio": "尼古拉·特斯拉，塞尔维亚裔美国发明家，现代交流电系统之父。发明了交流电电动机和变压器，与爱迪生之间\"电流之战\"轰动世界。一生申请专利近三百项，发明涵盖无线电、雷达原理、X射线、遥控等。",
+        "quote": "如果你想发现宇宙的奥秘，就用能量、频率和振动来思考",
+        "quotes": [
+          "如果你想发现宇宙的奥秘，就用能量、频率和振动来思考",
+          "交流电将照亮整个世界",
+          "我的头脑不是我一个人的，而是全人类的",
+          "电流是未来的血液"
+        ],
+        "tags": [
+          "发明家",
+          "天才",
+          "悲剧"
+        ]
+      },
+      {
+        "id": "sci_002",
+        "name": "居里夫人",
+        "era": "19-20世纪",
+        "gender": "女",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/sci_002_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/sci_002_portrait.webp",
+        "identity": "两获诺贝尔奖的女科学家、放射性研究先驱",
+        "bio": "玛丽·居里，波兰裔法国物理学家、化学家，两度荣获诺贝尔奖（物理奖和化学奖），迄今唯一获得两个不同学科诺贝尔奖的人。发现并命名了\"放射性\"，发现钋和镭两种新元素，开创了放射性研究领域。",
+        "quote": "科学的探索本身就是对生活最美好的馈赠",
+        "quotes": [
+          "科学的探索本身就是对生活最美好的馈赠",
+          "在科学上，我们应该对事不对人",
+          "我幸运地与皮埃尔·居里共同探索，此生无憾",
+          "放射性元素将照亮人类的未来"
+        ],
+        "tags": [
+          "诺贝尔奖",
+          "坚韧",
+          "女性科学家"
+        ]
+      },
+      {
+        "id": "sci_003",
+        "name": "图灵",
+        "era": "20世纪",
+        "gender": "男",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/sci_003_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/sci_003_portrait.webp",
+        "identity": "计算机科学之父、人工智能概念提出者",
+        "bio": "艾伦·图灵，英国数学家、逻辑学家，计算机科学与人工智能之父。二战期间主导破解德军\"恩尼格玛\"密码机，被认为至少缩短战争两年，拯救了数百万生命。却因同性恋身份被定罪，1954年以食含氰化物苹果离世。",
+        "quote": "我们只能看到前方不远处的地方，但我们仍然能看清有许多事情值得去做",
+        "quotes": [
+          "我们只能看到前方不远处的地方，但我们仍然能看清有许多事情值得去做",
+          "机器会思考吗？这个问题和潜艇会游泳吗一样有趣",
+          "他们怎么能这样对我？我只是做了自己认为正确的事",
+          "图灵机是思想之镜"
+        ],
+        "tags": [
+          "计算机",
+          "悲剧天才",
+          "AI"
+        ]
+      },
+      {
+        "id": "sci_004",
+        "name": "爱因斯坦",
+        "era": "20世纪",
+        "gender": "男",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/sci_004_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/sci_004_portrait.webp",
+        "identity": "相对论创立者、20世纪最伟大的物理学家",
+        "bio": "阿尔伯特·爱因斯坦，德裔美国物理学家，20世纪最伟大的科学家。创立了狭义相对论和广义相对论，提出了质能方程 E=mc²，彻底改变了人类对时空、引力、宇宙的认知。1921年获诺贝尔物理学奖。",
+        "quote": "想象力比知识更重要",
+        "quotes": [
+          "想象力比知识更重要",
+          "上帝不掷骰子",
+          "我这辈子最大的错误，是参与了原子弹的研制",
+          "和平是人类最珍贵的礼物"
+        ],
+        "tags": [
+          "相对论",
+          "天才",
+          "和平"
+        ]
+      },
+      {
+        "id": "sci_005",
+        "name": "霍金",
+        "era": "20-21世纪",
+        "gender": "男",
+        "avatar": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/sci_005_avatar.webp",
+        "portrait": "https://cdn.jsdelivr.net/gh/zrp539/chuanyueji@main/images/sci_005_portrait.webp",
+        "identity": "黑洞理论研究者、用意志力对抗命运的科学家",
+        "bio": "斯蒂芬·霍金，英国理论物理学家，21岁被确诊为渐冻症，医生预言他只能活两年，他却活到了76岁。在轮椅和语音合成器的陪伴下，提出了霍金辐射理论，研究黑洞、宇宙奇点，写下《时间简史》让数百万普通人读懂了宇宙。",
+        "quote": "记住要仰望星辰，而不是俯视脚下",
+        "quotes": [
+          "记住要仰望星辰，而不是俯视脚下",
+          "黑洞不是永恒的监狱",
+          "宇宙没有边界，至少我还没找到",
+          "活着就有希望"
+        ],
+        "tags": [
+          "黑洞",
+          "意志力",
+          "宇宙"
+        ]
+      }
+    ]
+  }
+}
