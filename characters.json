@@ -356,7 +356,7 @@
         "avatar": "https://zrp539.github.io/chuanyueji/images/lit_006_avatar.webp",
         "portrait": "https://zrp539.github.io/chuanyueji/images/lit_006_portrait.webp",
         "identity": "景阳冈打虎英雄、梁山好汉",
-        "bio": "武松，字行者，《水浒传》中最受读者喜爱的英雄之一。景阳冈赤手空拳打死猛虎而名扬天下；为兄长武大郎报仇怒杀西门庆；醉打蒋门神，大闹飞云浦，血溅鸳鸯楼，行事快意恩仇。",
+        "bio": "武松，，《水浒传》中最受读者喜爱的英雄之一。景阳冈赤手空拳打死猛虎而名扬天下；为兄长武大郎报仇怒杀西门庆；醉打蒋门神，大闹飞云浦，血溅鸳鸯楼，行事快意恩仇。",
         "quote": "要杀便杀，休要废话",
         "quotes": [
           "要杀便杀，休要废话",
@@ -459,7 +459,7 @@
     "film": [
       {
         "id": "film_001",
-        "name": "钢铁侠",
+        "name": "托尼·斯塔克",
         "era": "漫威宇宙·现代",
         "gender": "男",
         "avatar": "https://zrp539.github.io/chuanyueji/images/film_001_avatar.webp",
@@ -469,8 +469,8 @@
         "quote": "我是钢铁侠",
         "quotes": [
           "我是钢铁侠",
-          "有时候你得 run before you can walk",
-          "我能以凡人之躯，比肩神明"
+          "有时候你得先跑起来，才能学会走路",
+          "我创造的东西应该用来保护世界，而不是摧毁它"
         ],
         "tags": [
           "漫威",
